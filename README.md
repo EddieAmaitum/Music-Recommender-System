@@ -1,6 +1,6 @@
 ## **Music-Recommender-System**
 
-<img src="https://github.com/EddieAmaitum/Music-Recommender-System/blob/main/Music%20Recommender%20System%20photo.jpg" alt="Music Recommender System photo" width="100%">
+<img src="https://github.com/EddieAmaitum/Music-Recommender-System/blob/main/Music%20Recommender%20System%20photo.jpg" alt="Music Recommender System photo" width="75%">
 
 ### **Why this is important?**
 
