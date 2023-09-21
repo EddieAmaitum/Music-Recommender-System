@@ -2,6 +2,8 @@
 
 <img src="https://github.com/EddieAmaitum/Music-Recommender-System/blob/main/Music%20Recommender%20System%20photo.jpg" alt="Music Recommender System photo" width="75%">
 
+#### *Please refer to the python notebook and project presentation to get detailed and summarized version of the project respectively*  
+
 ### **Why this is important?**
 
 #### **The context:**
